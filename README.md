@@ -38,7 +38,7 @@ both scripts will save the updated files in the specified folder. Follow the ste
 <h3>For <code>replace-last-page.jsx</code></h3>
 <ul>
     <li>The InDesign files should be in the <code>Source Folder Path</code> folder.</li>
-    <li>The replacement page should be named <code>Replacement Page path</code> and stored in the <code>T&C</code> folder.</li>
+    <li>The replacement page should be in the <code>Replacement Page path</code> folder.</li>
     <li>The updated files will be saved in the <code>Destination Folder Path</code> folder.</li>
 </ul>
 
