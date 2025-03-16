@@ -44,7 +44,7 @@ both scripts will save the updated files in the specified folder. Follow the ste
 
 <h3>For <code>convert-to-pdf.jsx</code></h3>
 <ul>
-    <li>InDesign files should be placed in <code>Source Folder Path</code>.(update this in the script)</li>
+    <li>InDesign files should be placed in <code>Source Folder Path</code>.</li>
     <li>PDFs will be exported to the same <code>Destination Folder Path</code> folder.</li>
 </ul>
 
