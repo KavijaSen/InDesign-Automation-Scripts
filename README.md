@@ -37,15 +37,15 @@ both scripts will save the updated files in the specified folder. Follow the ste
 
 <h3>For <code>replace-last-page.jsx</code></h3>
 <ul>
-    <li>The InDesign files should be in the <code>MISSED</code> folder.</li>
-    <li>The replacement page should be named <code>T&C2025.indd</code> and stored in the <code>T&C</code> folder.</li>
-    <li>The updated files will be saved in the <code>MISSED/NEW</code> folder.</li>
+    <li>The InDesign files should be in the <code>Source Folder Path</code> folder.</li>
+    <li>The replacement page should be named <code>Replacement Page path</code> and stored in the <code>T&C</code> folder.</li>
+    <li>The updated files will be saved in the <code>Destination Folder Path</code> folder.</li>
 </ul>
 
 <h3>For <code>convert-to-pdf.jsx</code></h3>
 <ul>
-    <li>InDesign files should be placed in <code>MISSED/NEW</code>.</li>
-    <li>PDFs will be exported to the same <code>MISSED/NEW</code> folder.</li>
+    <li>InDesign files should be placed in <code><Source Folder Path></code>.(update this in the script)</li>
+    <li>PDFs will be exported to the same <code><Destination Folder Path></code> folder.</li>
 </ul>
 
 <p><strong>A confirmation alert will appear once the script completes.</strong></p>
